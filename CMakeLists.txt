@@ -34,7 +34,7 @@ endfunction()
 find_package(OpenGL REQUIRED)
 
 add_subdirectory("lib/glad")            # OpenGL loader
-add_subdirectory("lib/glfw-3.4")        # Creating windows
+add_subdirectory("lib/glfw-3.5.1")      # Creating windows
 
 # =========================================
 # OpenGL Chapters
