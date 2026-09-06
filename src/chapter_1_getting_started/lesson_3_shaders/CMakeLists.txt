@@ -9,7 +9,7 @@ add_demo(
 	shaders_interpolation.cpp
 )
 # 3.2 Shaders Class
-add_demo(
-	shaders_class 
-	shaders_class.cpp
-)
+# add_demo(
+# 	shaders_class 
+# 	shaders_class.cpp
+# )
